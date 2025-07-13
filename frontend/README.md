@@ -9,7 +9,6 @@ git clone https://github.com/yandex-praktikum/kittygram_frontend.git
 ```
 cd kittygram_frontend
 ```
-
 Установить зависимости:
 
 ```
