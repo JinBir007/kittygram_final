@@ -21,7 +21,7 @@ services:
       - static:/backend_static
       - media:/app/media
     expose:
-      - 8000
+      - 9000
     depends_on:
       - db
 
