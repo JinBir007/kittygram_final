@@ -38,4 +38,4 @@ services:
       - static:/staticfiles/
       - media:/media
     ports:
-      - 9000:9001
+      - 9000:9000
